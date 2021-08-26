@@ -4,7 +4,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "postbuild": "mv subscribers dist",
     "serve": "vite preview"
   },
   "dependencies": {
