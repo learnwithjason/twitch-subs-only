@@ -12,7 +12,7 @@
 <p align="center">
   But don’t worry! You can still: 
   <a href="https://www.learnwithjason.dev/limit-access-to-web-pages-for-twitch-subscriptions"><strong>watch the video</strong></a> · 
-  <a href="https://https://twitch-subs-only.netlify.app/.netlify.app"><strong>see the demo</strong></a> · 
+  <a href="https://twitch-subs-only.netlify.app"><strong>see the demo</strong></a> · 
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/twitch-subs-only&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a> · 
   <a href="https://jason.af/lwj/schedule"><strong>see upcoming episodes</strong></a>
 </p>
