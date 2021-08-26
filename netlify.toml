@@ -1,0 +1,8 @@
+# example netlify.toml
+[build]
+  command = "vite build"
+  functions = "netlify/functions"
+  publish = "dist"
+
+[functions]
+  node_bundler = "esbuild"
